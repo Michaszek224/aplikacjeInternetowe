@@ -1,0 +1,56 @@
+li {
+    list-style-type: square
+}
+
+* {
+    font-family: Tahoma
+}
+
+body {
+    margin: 5em 10em 5em 10em;
+    background-color: lightblue;
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.v3wall.com%2Fwallpaper%2Fsmall%2F1004%2Fsmall_20100416010018340551.jpg&f=1&nofb=1&ipt=23e317cd0d2517a33e9b7dced041b9fc9403a4c60ddcdeb467cb245717df058b&ipo=images");
+    background-repeat: repeat-y
+}
+
+p {
+    text-align: justify
+}
+
+#cena {
+    font-weight: bold;
+}
+
+.wstęp {
+    font-style: italic;
+}
+
+td>img {
+    border-color: blue;
+    border-style: solid;
+}
+
+td>img:hover {
+    border-color: red;
+    border-style: solid;
+}
+
+h1+h2 {
+    letter-spacing: 5px;
+}
+
+td[colspan="2"]>p {
+    font-size: small;
+}
+
+p+p {
+    color: gray;
+}
+
+h1 {
+    color: blue
+}
+
+h1 {
+    color: green
+}
