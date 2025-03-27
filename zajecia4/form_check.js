@@ -22,7 +22,6 @@ function checkEmail(str) {
     if (email.test(str))
         return true;
     else {
-        alert("Podaj właściwy e-mail");
         return false;
     }
 }
