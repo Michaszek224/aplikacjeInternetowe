@@ -3,62 +3,116 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>JavaScript</title>
+    <title>Formularz</title>
     <script src="form_check.js"></script>
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
+
+    <table>
+        <tbody>
+            <tr>
+                <td>Wiersz 1</td>
+            </tr>
+            <tr>
+                <td>Wiersz 2</td>
+            </tr>
+            <tr>
+                <td>Wiersz 3</td>
+            </tr>
+            <tr>
+                <td>Wiersz 4</td>
+            </tr>
+            <tr>
+                <td>Wiersz 5</td>
+            </tr>
+            <tr>
+                <td>Wiersz 6</td>
+            </tr>
+            <tr>
+                <td>Wiersz 7</td>
+            </tr>
+        </tbody>
+    </table>
+
+
     <form name="dane_osobowe">
         <table>
+            <!-- Imię -->
             <tr>
                 <td>Imię</td>
                 <td><input type="text" name="f_imie"></td>
-                <span class="err" id="e_imie"></span>
+                <td><span class="err" id="e_imie"></span></td>
             </tr>
+
+            <!-- Nazwisko -->
             <tr>
                 <td>Nazwisko</td>
                 <td><input type="text" name="f_nazwisko"></td>
-                <span class="err" id="e_nazwisko"></span>
+                <td><span class="err" id="e_nazwisko"></span></td>
             </tr>
+
+            <!-- Płeć -->
             <tr>
                 <td>Płeć</td>
                 <td>
-                    <input name="f_plec" value="f_k" checked type="radio" />kobieta<br />
-                    <input name="f_plec" value="f_m" type="radio" />mężczyzna
+                    <input name="f_plec" value="f_k" checked type="radio"
+                        onclick="showElement('NazwiskoPanienskie')">kobieta<br>
+                    <input name="f_plec" value="f_m" type="radio" onclick="hideElement('NazwiskoPanienskie')">mężczyzna
                 </td>
+                <td></td>
             </tr>
+
+            <!-- Nazwisko panieńskie -->
             <tr>
                 <td>N. panieńskie</td>
-                <td><input type="text" name="f_nazwisko_p"></td>
+                <td><span id="NazwiskoPanienskie" style="visibility: visible;">
+                        <input type="text" name="f_nazwisko_p">
+                    </span></td>
+                <td></td>
             </tr>
+
+            <!-- E-mail -->
             <tr>
                 <td>E-mail</td>
                 <td><input type="text" name="f_email"></td>
-                <span class="err" id="e_mail"></span>
+                <td><span class="err" id="e_email"></span></td>
             </tr>
+
+            <!-- Kod pocztowy -->
             <tr>
                 <td>Kod pocztowy</td>
                 <td><input type="text" name="f_kod"></td>
-                <span class="err" id="e_kod"></span>
+                <td><span class="err" id="e_kod"></span></td>
             </tr>
+
+            <!-- Ulica -->
             <tr>
                 <td>Ulica/Osiedle</td>
                 <td><input type="text" name="f_ulica"></td>
-                <span class="err" id="e_ulica"></span>
+                <td><span class="err" id="e_ulica"></span></td>
             </tr>
+
+            <!-- Miasto -->
             <tr>
                 <td>Miasto</td>
                 <td><input type="text" name="f_miasto"></td>
-                <span class="err" id="e_miasto"></span>
+                <td><span class="err" id="e_miasto"></span></td>
             </tr>
+
+            <!-- Uwagi -->
             <tr>
                 <td>Uwagi</td>
-                <td><textarea rows="5" cols="15" name="uwagi"></textarea>
-                </td>
+                <td><textarea rows="5" cols="15" name="uwagi"></textarea></td>
+                <td></td>
             </tr>
+
+            <!-- Przycisk -->
             <tr>
-                <td colspan="2"><input type="submit" value="Prześlij" onclick="return(validate(this.form))"></td>
+                <td colspan="3">
+                    <input type="submit" value="Prześlij" onclick="return validate(this.form)">
+                </td>
             </tr>
         </table>
     </form>
