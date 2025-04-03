@@ -68,5 +68,44 @@ function alterRows(i, e) {
     }
 }
 
+function nextNode(e) {
+    while (e && e.nodeType != 1) {
+        e = e.nextSibling;
+    }
+    return e;
+}
+
+function prevNode(e) {
+    while (e && e.nodeType != 1) {
+        e = e.previousSibling;
+    }
+    return e;
+}
+
+function swapRows(b) {
+    // Pobieramy tabelkę – zakładamy, że przycisk znajduje się bezpośrednio za tabelą.
+    let tab = prevNode(b.previousSibling);
+    // Pierwszy element w tabeli to <tbody> (przyjmujemy, że tabela ma <tbody>)
+    let tBody = nextNode(tab.firstChild);
+    // Pobieramy ostatni wiersz
+    let lastNode = prevNode(tBody.lastChild);
+    // Usuwamy ostatni wiersz
+    tBody.removeChild(lastNode);
+    // Pobieramy pierwszy wiersz
+    let firstNode = nextNode(tBody.firstChild);
+    // Wstawiamy usunięty wiersz przed pierwszym
+    tBody.insertBefore(lastNode, firstNode);
+}
+
+function cnt(form, msg, maxSize) {
+    if (form.value.length > maxSize)
+        form.value = form.value.substring(0, maxSize);
+    else
+        msg.innerHTML = maxSize - form.value.length;
+}
+
+document.addEventListener("DOMContentLoaded", function() {
+    alterRows(1, document.getElementsByTagName("tr")[0]);
+});
 
 console.log("form_check.js załadowany");
