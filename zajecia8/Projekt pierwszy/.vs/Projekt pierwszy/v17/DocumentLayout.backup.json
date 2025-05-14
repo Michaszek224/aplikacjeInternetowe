@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\punko\\Desktop\\projekty\\aplikacjeInternetowe\\zajecia8\\Projekt pierwszy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4E944-30D1-4B68-8628-B4CB8B71C93A}|Projekt pierwszy\\Projekt pierwszy.csproj|c:\\users\\punko\\desktop\\projekty\\aplikacjeinternetowe\\zajecia8\\projekt pierwszy\\projekt pierwszy\\pages\\rules.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AD4E944-30D1-4B68-8628-B4CB8B71C93A}|Projekt pierwszy\\Projekt pierwszy.csproj|solutionrelative:projekt pierwszy\\pages\\rules.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4E944-30D1-4B68-8628-B4CB8B71C93A}|Projekt pierwszy\\Projekt pierwszy.csproj|c:\\users\\punko\\desktop\\projekty\\aplikacjeinternetowe\\zajecia8\\projekt pierwszy\\projekt pierwszy\\pages\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AD4E944-30D1-4B68-8628-B4CB8B71C93A}|Projekt pierwszy\\Projekt pierwszy.csproj|solutionrelative:projekt pierwszy\\pages\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4E944-30D1-4B68-8628-B4CB8B71C93A}|Projekt pierwszy\\Projekt pierwszy.csproj|c:\\users\\punko\\desktop\\projekty\\aplikacjeinternetowe\\zajecia8\\projekt pierwszy\\projekt pierwszy\\pages\\name.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AD4E944-30D1-4B68-8628-B4CB8B71C93A}|Projekt pierwszy\\Projekt pierwszy.csproj|solutionrelative:projekt pierwszy\\pages\\name.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rules.cshtml",
+              "DocumentMoniker": "C:\\Users\\punko\\Desktop\\projekty\\aplikacjeInternetowe\\zajecia8\\Projekt pierwszy\\Projekt pierwszy\\Pages\\Rules.cshtml",
+              "RelativeDocumentMoniker": "Projekt pierwszy\\Pages\\Rules.cshtml",
+              "ToolTip": "C:\\Users\\punko\\Desktop\\projekty\\aplikacjeInternetowe\\zajecia8\\Projekt pierwszy\\Projekt pierwszy\\Pages\\Rules.cshtml*",
+              "RelativeToolTip": "Projekt pierwszy\\Pages\\Rules.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T16:41:56.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\punko\\Desktop\\projekty\\aplikacjeInternetowe\\zajecia8\\Projekt pierwszy\\Projekt pierwszy\\Pages\\Default.cshtml",
+              "RelativeDocumentMoniker": "Projekt pierwszy\\Pages\\Default.cshtml",
+              "ToolTip": "C:\\Users\\punko\\Desktop\\projekty\\aplikacjeInternetowe\\zajecia8\\Projekt pierwszy\\Projekt pierwszy\\Pages\\Default.cshtml",
+              "RelativeToolTip": "Projekt pierwszy\\Pages\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T16:20:05.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Name.cshtml",
+              "DocumentMoniker": "C:\\Users\\punko\\Desktop\\projekty\\aplikacjeInternetowe\\zajecia8\\Projekt pierwszy\\Projekt pierwszy\\Pages\\Name.cshtml",
+              "RelativeDocumentMoniker": "Projekt pierwszy\\Pages\\Name.cshtml",
+              "ToolTip": "C:\\Users\\punko\\Desktop\\projekty\\aplikacjeInternetowe\\zajecia8\\Projekt pierwszy\\Projekt pierwszy\\Pages\\Name.cshtml",
+              "RelativeToolTip": "Projekt pierwszy\\Pages\\Name.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T16:14:20.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

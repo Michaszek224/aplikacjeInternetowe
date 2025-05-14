@@ -1,0 +1,30 @@
+C:\Users\punko\Desktop\projekty\aplikacjeInternetowe\zajecia8\Projekt pierwszy\Projekt pierwszy\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\punko\Desktop\projekty\aplikacjeInternetowe\zajecia8\Projekt pierwszy\Projekt pierwszy\bin\Debug\net8.0\appsettings.json
+C:\Users\punko\Desktop\projekty\aplikacjeInternetowe\zajecia8\Projekt pierwszy\Projekt pierwszy\bin\Debug\net8.0\Projekt pierwszy.staticwebassets.runtime.json
+C:\Users\punko\Desktop\projekty\aplikacjeInternetowe\zajecia8\Projekt pierwszy\Projekt pierwszy\bin\Debug\net8.0\Projekt pierwszy.staticwebassets.endpoints.json
+C:\Users\punko\Desktop\projekty\aplikacjeInternetowe\zajecia8\Projekt pierwszy\Projekt pierwszy\bin\Debug\net8.0\Projekt pierwszy.exe
+C:\Users\punko\Desktop\projekty\aplikacjeInternetowe\zajecia8\Projekt pierwszy\Projekt pierwszy\bin\Debug\net8.0\Projekt pierwszy.deps.json
+C:\Users\punko\Desktop\projekty\aplikacjeInternetowe\zajecia8\Projekt pierwszy\Projekt pierwszy\bin\Debug\net8.0\Projekt pierwszy.runtimeconfig.json
+C:\Users\punko\Desktop\projekty\aplikacjeInternetowe\zajecia8\Projekt pierwszy\Projekt pierwszy\bin\Debug\net8.0\Projekt pierwszy.dll
+C:\Users\punko\Desktop\projekty\aplikacjeInternetowe\zajecia8\Projekt pierwszy\Projekt pierwszy\bin\Debug\net8.0\Projekt pierwszy.pdb
+C:\Users\punko\Desktop\projekty\aplikacjeInternetowe\zajecia8\Projekt pierwszy\Projekt pierwszy\obj\Debug\net8.0\Projekt pierwszy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\punko\Desktop\projekty\aplikacjeInternetowe\zajecia8\Projekt pierwszy\Projekt pierwszy\obj\Debug\net8.0\Projekt pierwszy.AssemblyInfoInputs.cache
+C:\Users\punko\Desktop\projekty\aplikacjeInternetowe\zajecia8\Projekt pierwszy\Projekt pierwszy\obj\Debug\net8.0\Projekt pierwszy.AssemblyInfo.cs
+C:\Users\punko\Desktop\projekty\aplikacjeInternetowe\zajecia8\Projekt pierwszy\Projekt pierwszy\obj\Debug\net8.0\Projekt pierwszy.csproj.CoreCompileInputs.cache
+C:\Users\punko\Desktop\projekty\aplikacjeInternetowe\zajecia8\Projekt pierwszy\Projekt pierwszy\obj\Debug\net8.0\Projekt pierwszy.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\punko\Desktop\projekty\aplikacjeInternetowe\zajecia8\Projekt pierwszy\Projekt pierwszy\obj\Debug\net8.0\Projekt pierwszy.RazorAssemblyInfo.cache
+C:\Users\punko\Desktop\projekty\aplikacjeInternetowe\zajecia8\Projekt pierwszy\Projekt pierwszy\obj\Debug\net8.0\Projekt pierwszy.RazorAssemblyInfo.cs
+C:\Users\punko\Desktop\projekty\aplikacjeInternetowe\zajecia8\Projekt pierwszy\Projekt pierwszy\obj\Debug\net8.0\Projekt pierwszy.sourcelink.json
+C:\Users\punko\Desktop\projekty\aplikacjeInternetowe\zajecia8\Projekt pierwszy\Projekt pierwszy\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\punko\Desktop\projekty\aplikacjeInternetowe\zajecia8\Projekt pierwszy\Projekt pierwszy\obj\Debug\net8.0\scopedcss\bundle\Projekt pierwszy.styles.css
+C:\Users\punko\Desktop\projekty\aplikacjeInternetowe\zajecia8\Projekt pierwszy\Projekt pierwszy\obj\Debug\net8.0\scopedcss\projectbundle\Projekt pierwszy.bundle.scp.css
+C:\Users\punko\Desktop\projekty\aplikacjeInternetowe\zajecia8\Projekt pierwszy\Projekt pierwszy\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\punko\Desktop\projekty\aplikacjeInternetowe\zajecia8\Projekt pierwszy\Projekt pierwszy\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\punko\Desktop\projekty\aplikacjeInternetowe\zajecia8\Projekt pierwszy\Projekt pierwszy\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\punko\Desktop\projekty\aplikacjeInternetowe\zajecia8\Projekt pierwszy\Projekt pierwszy\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\punko\Desktop\projekty\aplikacjeInternetowe\zajecia8\Projekt pierwszy\Projekt pierwszy\obj\Debug\net8.0\Projekt pierwszy.dll
+C:\Users\punko\Desktop\projekty\aplikacjeInternetowe\zajecia8\Projekt pierwszy\Projekt pierwszy\obj\Debug\net8.0\refint\Projekt pierwszy.dll
+C:\Users\punko\Desktop\projekty\aplikacjeInternetowe\zajecia8\Projekt pierwszy\Projekt pierwszy\obj\Debug\net8.0\Projekt pierwszy.pdb
+C:\Users\punko\Desktop\projekty\aplikacjeInternetowe\zajecia8\Projekt pierwszy\Projekt pierwszy\obj\Debug\net8.0\Projekt pierwszy.genruntimeconfig.cache
+C:\Users\punko\Desktop\projekty\aplikacjeInternetowe\zajecia8\Projekt pierwszy\Projekt pierwszy\obj\Debug\net8.0\ref\Projekt pierwszy.dll
+C:\Users\punko\Desktop\projekty\aplikacjeInternetowe\zajecia8\Projekt pierwszy\Projekt pierwszy\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

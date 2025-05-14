@@ -1,0 +1,47 @@
+﻿@page
+@model Projekt_pierwszy.Pages.RulesModel
+@{
+    // Pobierz listę reguł z sesji
+    var rules = Context.Session.GetObjectFromJson<List<string>>("rules") ?? new List<string>();
+
+    if (IsPost)
+    {
+        var newRule = Request.Form["newRule"];
+        if (!string.IsNullOrWhiteSpace(newRule))
+        {
+            rules.Add(newRule);
+            // Zapisz listę reguł z powrotem do sesji
+            Context.Session.SetObjectAsJson("rules", rules);
+            Response.Redirect("Rules.cshtml"); // Wzorzec POST -> REDIRECT -> GET
+        }
+    }
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Formularz reguł</title>
+</head>
+<body>
+    <h2>Podaj nową regułę:</h2>
+
+    <form asp-page="/Rules" method="post">
+        <input type="text" name="rule" />
+        <input type="submit" value="Dodaj" />
+    </form>
+
+    @if (rules?.Any() == true)
+    {
+        <h3>Zgłoszone reguły:</h3>
+        <ol>
+            @foreach (var rule in rules)
+            {
+                <li>@rule</li>
+            }
+        </ol>
+    }
+
+
+</body>
+</html>
