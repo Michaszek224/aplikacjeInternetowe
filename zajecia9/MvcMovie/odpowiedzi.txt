@@ -1,0 +1,39 @@
+1. Warstwy MVC i połączenia
+
+Model: dane + logika
+
+View: widok strony
+
+Controller: odbiera żądania, używa Modelu, zwraca View
+
+Przepływ: klient → Controller → Model → Controller → View → klient
+
+2. Nazwy
+
+(i) Modele: Product (liczba pojedyncza).
+(ii) Kontrolery: ProductController (przyrostek Controller).
+(iii) Akcje: Nazwy metod odpowiadające akcjom (np. Index, Create).
+(iv) Widoki: Nazwy jak akcje, np. Index.cshtml.
+(v) Foldery: Views/NazwaKontrolera (bez przyrostka Controller).
+
+3. Przekazywanie danych
+
+ViewBag (dynamiczny obiekt): ViewBag.Message = "Witaj";.
+
+Model silnie typowany: return View(model);
+
+4. Mapowanie URL
+
+Konwencja {controller}/{action}/{id} (domyślnie w Startup.cs). Np. /Product/Edit/5 → ProductController.Edit(int id).
+
+5. Ograniczanie metod HTTP
+
+Atrybuty nad akcjami: [HttpGet], [HttpPost] itp.
+
+6. Walidacja
+
+W modelu: atrybuty DataAnnotations ([Required], [MaxLength]…)
+
+W kontrolerze: if (!ModelState.IsValid) return View(model);
+
+W widoku: @Html.ValidationSummary(), @Html.ValidationMessageFor(...)
