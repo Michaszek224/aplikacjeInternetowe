@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\punko\\Desktop\\projekty\\aplikacjeInternetowe\\zajecia8\\Projekt pierwszy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1AD4E944-30D1-4B68-8628-B4CB8B71C93A}|Projekt pierwszy\\Projekt pierwszy.csproj|c:\\users\\punko\\desktop\\projekty\\aplikacjeinternetowe\\zajecia8\\projekt pierwszy\\projekt pierwszy\\pages\\rules.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1AD4E944-30D1-4B68-8628-B4CB8B71C93A}|Projekt pierwszy\\Projekt pierwszy.csproj|solutionrelative:projekt pierwszy\\pages\\rules.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1AD4E944-30D1-4B68-8628-B4CB8B71C93A}|Projekt pierwszy\\Projekt pierwszy.csproj|c:\\users\\punko\\desktop\\projekty\\aplikacjeinternetowe\\zajecia8\\projekt pierwszy\\projekt pierwszy\\pages\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1AD4E944-30D1-4B68-8628-B4CB8B71C93A}|Projekt pierwszy\\Projekt pierwszy.csproj|solutionrelative:projekt pierwszy\\pages\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AD4E944-30D1-4B68-8628-B4CB8B71C93A}|Projekt pierwszy\\Projekt pierwszy.csproj|c:\\users\\punko\\desktop\\projekty\\aplikacjeinternetowe\\zajecia8\\projekt pierwszy\\projekt pierwszy\\pages\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1AD4E944-30D1-4B68-8628-B4CB8B71C93A}|Projekt pierwszy\\Projekt pierwszy.csproj|solutionrelative:projekt pierwszy\\pages\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1AD4E944-30D1-4B68-8628-B4CB8B71C93A}|Projekt pierwszy\\Projekt pierwszy.csproj|c:\\users\\punko\\desktop\\projekty\\aplikacjeinternetowe\\zajecia8\\projekt pierwszy\\projekt pierwszy\\pages\\suits\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AD4E944-30D1-4B68-8628-B4CB8B71C93A}|Projekt pierwszy\\Projekt pierwszy.csproj|solutionrelative:projekt pierwszy\\pages\\suits\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4E944-30D1-4B68-8628-B4CB8B71C93A}|Projekt pierwszy\\Projekt pierwszy.csproj|c:\\users\\punko\\desktop\\projekty\\aplikacjeinternetowe\\zajecia8\\projekt pierwszy\\projekt pierwszy\\pages\\suits\\mark3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AD4E944-30D1-4B68-8628-B4CB8B71C93A}|Projekt pierwszy\\Projekt pierwszy.csproj|solutionrelative:projekt pierwszy\\pages\\suits\\mark3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4E944-30D1-4B68-8628-B4CB8B71C93A}|Projekt pierwszy\\Projekt pierwszy.csproj|c:\\users\\punko\\desktop\\projekty\\aplikacjeinternetowe\\zajecia8\\projekt pierwszy\\projekt pierwszy\\pages\\suits\\mark6.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AD4E944-30D1-4B68-8628-B4CB8B71C93A}|Projekt pierwszy\\Projekt pierwszy.csproj|solutionrelative:projekt pierwszy\\pages\\suits\\mark6.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1AD4E944-30D1-4B68-8628-B4CB8B71C93A}|Projekt pierwszy\\Projekt pierwszy.csproj|c:\\users\\punko\\desktop\\projekty\\aplikacjeinternetowe\\zajecia8\\projekt pierwszy\\projekt pierwszy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AD4E944-30D1-4B68-8628-B4CB8B71C93A}|Projekt pierwszy\\Projekt pierwszy.csproj|solutionrelative:projekt pierwszy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4E944-30D1-4B68-8628-B4CB8B71C93A}|Projekt pierwszy\\Projekt pierwszy.csproj|c:\\users\\punko\\desktop\\projekty\\aplikacjeinternetowe\\zajecia8\\projekt pierwszy\\projekt pierwszy\\pages\\rules.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AD4E944-30D1-4B68-8628-B4CB8B71C93A}|Projekt pierwszy\\Projekt pierwszy.csproj|solutionrelative:projekt pierwszy\\pages\\rules.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4E944-30D1-4B68-8628-B4CB8B71C93A}|Projekt pierwszy\\Projekt pierwszy.csproj|c:\\users\\punko\\desktop\\projekty\\aplikacjeinternetowe\\zajecia8\\projekt pierwszy\\projekt pierwszy\\pages\\rules.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD4E944-30D1-4B68-8628-B4CB8B71C93A}|Projekt pierwszy\\Projekt pierwszy.csproj|solutionrelative:projekt pierwszy\\pages\\rules.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD4E944-30D1-4B68-8628-B4CB8B71C93A}|Projekt pierwszy\\Projekt pierwszy.csproj|c:\\users\\punko\\desktop\\projekty\\aplikacjeinternetowe\\zajecia8\\projekt pierwszy\\projekt pierwszy\\pages\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AD4E944-30D1-4B68-8628-B4CB8B71C93A}|Projekt pierwszy\\Projekt pierwszy.csproj|solutionrelative:projekt pierwszy\\pages\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1AD4E944-30D1-4B68-8628-B4CB8B71C93A}|Projekt pierwszy\\Projekt pierwszy.csproj|c:\\users\\punko\\desktop\\projekty\\aplikacjeinternetowe\\zajecia8\\projekt pierwszy\\projekt pierwszy\\pages\\name.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -26,37 +46,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mark6.cshtml",
+              "DocumentMoniker": "C:\\Users\\punko\\Desktop\\projekty\\aplikacjeInternetowe\\zajecia8\\Projekt pierwszy\\Projekt pierwszy\\Pages\\Suits\\Mark6.cshtml",
+              "RelativeDocumentMoniker": "Projekt pierwszy\\Pages\\Suits\\Mark6.cshtml",
+              "ToolTip": "C:\\Users\\punko\\Desktop\\projekty\\aplikacjeInternetowe\\zajecia8\\Projekt pierwszy\\Projekt pierwszy\\Pages\\Suits\\Mark6.cshtml",
+              "RelativeToolTip": "Projekt pierwszy\\Pages\\Suits\\Mark6.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T01:43:56.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Mark3.cshtml",
+              "DocumentMoniker": "C:\\Users\\punko\\Desktop\\projekty\\aplikacjeInternetowe\\zajecia8\\Projekt pierwszy\\Projekt pierwszy\\Pages\\Suits\\Mark3.cshtml",
+              "RelativeDocumentMoniker": "Projekt pierwszy\\Pages\\Suits\\Mark3.cshtml",
+              "ToolTip": "C:\\Users\\punko\\Desktop\\projekty\\aplikacjeInternetowe\\zajecia8\\Projekt pierwszy\\Projekt pierwszy\\Pages\\Suits\\Mark3.cshtml",
+              "RelativeToolTip": "Projekt pierwszy\\Pages\\Suits\\Mark3.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T01:43:43.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\punko\\Desktop\\projekty\\aplikacjeInternetowe\\zajecia8\\Projekt pierwszy\\Projekt pierwszy\\Pages\\Suits\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Projekt pierwszy\\Pages\\Suits\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\punko\\Desktop\\projekty\\aplikacjeInternetowe\\zajecia8\\Projekt pierwszy\\Projekt pierwszy\\Pages\\Suits\\_Layout.cshtml",
+              "RelativeToolTip": "Projekt pierwszy\\Pages\\Suits\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T01:43:25.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Style.css",
+              "DocumentMoniker": "C:\\Users\\punko\\Desktop\\projekty\\aplikacjeInternetowe\\zajecia8\\Projekt pierwszy\\Projekt pierwszy\\Pages\\Content\\Style.css",
+              "RelativeDocumentMoniker": "Projekt pierwszy\\Pages\\Content\\Style.css",
+              "ToolTip": "C:\\Users\\punko\\Desktop\\projekty\\aplikacjeInternetowe\\zajecia8\\Projekt pierwszy\\Projekt pierwszy\\Pages\\Content\\Style.css",
+              "RelativeToolTip": "Projekt pierwszy\\Pages\\Content\\Style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-15T01:41:34.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rules.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\punko\\Desktop\\projekty\\aplikacjeInternetowe\\zajecia8\\Projekt pierwszy\\Projekt pierwszy\\Pages\\Rules.cshtml.cs",
+              "RelativeDocumentMoniker": "Projekt pierwszy\\Pages\\Rules.cshtml.cs",
+              "ToolTip": "C:\\Users\\punko\\Desktop\\projekty\\aplikacjeInternetowe\\zajecia8\\Projekt pierwszy\\Projekt pierwszy\\Pages\\Rules.cshtml.cs",
+              "RelativeToolTip": "Projekt pierwszy\\Pages\\Rules.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:38:46.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\punko\\Desktop\\projekty\\aplikacjeInternetowe\\zajecia8\\Projekt pierwszy\\Projekt pierwszy\\Program.cs",
               "RelativeDocumentMoniker": "Projekt pierwszy\\Program.cs",
               "ToolTip": "C:\\Users\\punko\\Desktop\\projekty\\aplikacjeInternetowe\\zajecia8\\Projekt pierwszy\\Projekt pierwszy\\Program.cs",
               "RelativeToolTip": "Projekt pierwszy\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T16:54:29.657Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Rules.cshtml",
               "DocumentMoniker": "C:\\Users\\punko\\Desktop\\projekty\\aplikacjeInternetowe\\zajecia8\\Projekt pierwszy\\Projekt pierwszy\\Pages\\Rules.cshtml",
               "RelativeDocumentMoniker": "Projekt pierwszy\\Pages\\Rules.cshtml",
               "ToolTip": "C:\\Users\\punko\\Desktop\\projekty\\aplikacjeInternetowe\\zajecia8\\Projekt pierwszy\\Projekt pierwszy\\Pages\\Rules.cshtml",
               "RelativeToolTip": "Projekt pierwszy\\Pages\\Rules.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-14T16:41:56.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\punko\\Desktop\\projekty\\aplikacjeInternetowe\\zajecia8\\Projekt pierwszy\\Projekt pierwszy\\Pages\\Default.cshtml",
               "RelativeDocumentMoniker": "Projekt pierwszy\\Pages\\Default.cshtml",
@@ -69,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Name.cshtml",
               "DocumentMoniker": "C:\\Users\\punko\\Desktop\\projekty\\aplikacjeInternetowe\\zajecia8\\Projekt pierwszy\\Projekt pierwszy\\Pages\\Name.cshtml",
               "RelativeDocumentMoniker": "Projekt pierwszy\\Pages\\Name.cshtml",
@@ -77,8 +162,7 @@
               "RelativeToolTip": "Projekt pierwszy\\Pages\\Name.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T16:14:20.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T16:14:20.198Z"
             }
           ]
         }
